@@ -31,7 +31,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_TWITTER_HANDLE": "@windexdotfun",
   "VITE_SEO_THEME_COLOR": "#5b0cbb",
   "VITE_SEO_KEYWORDS": "decentralized exchange, crypto trading, DEX, memecoin trading, Solana, pumpfun, windex, DeFi, crypto launchpad, token trading, onchain analytics, liquidity, AMM, swap tokens, blockchain, Web3, decentralized finance, meme tokens, new token launches, crypto markets, trading platform, pump and dump tracker, Solana DEX, trading volume, crypto charting, liquidity pools, real-time prices",
-  "VITE_AVAILABLE_LANGUAGES": "en",
+  "VITE_AVAILABLE_LANGUAGES": "en,zh,fr,de",
   "VITE_USE_CUSTOM_PNL_POSTERS": "false",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "0",
   "VITE_TRADING_VIEW_COLOR_CONFIG": ""
